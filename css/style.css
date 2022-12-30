@@ -113,7 +113,7 @@ align-items: center;}
 }
 .container .links:hover ul {display: block;}
 /* start landing */
-.landing{background-image: url(tyler-lastovich-ddLiNMqWAOM-unsplash.jpg);
+.landing{background-image: url(../pexels-pixabay-355770.jpg);
 background-size: cover;
 height: calc(100vh - 64px);position: relative;}
 .landing .intro-text{ position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); -webkit-transform: translate(-50%,-50%); -moz-transform: translate(-50%,-50%); -ms-transform: translate(-50%,-50%); -o-transform: translate(-50%,-50%);
